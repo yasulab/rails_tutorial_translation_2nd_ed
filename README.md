@@ -2,7 +2,7 @@
 
 ## 重要なお知らせ
 
-### [fork 元](https://github.com/mhartl/rails_tutorial_translation_2nd_ed)に Pull Request を送信する予定が無く、また、複数のバージョン (Rails 3.2, Rails 4.0, etc.) の日本語訳を１つのリポジトリにまとめたいので、最新版は [yasulab/railstutorial.jp](https://github.com/yasulab/railstutorial.jp) に移行しました。現在は、そこで日本語訳のリポジトリを一括して管理しています。
+### [fork 元](https://github.com/mhartl/rails_tutorial_translation_2nd_ed)に Pull Request を送信する予定が無く、また、複数のバージョン (Rails 3.2, Rails 4.0, etc.) の日本語訳を１つのリポジトリにまとめたいので、最新版は [yasslab/railstutorial.jp](https://github.com/yasslab/railstutorial.jp) に移行しました。現在は、そこで日本語訳のリポジトリを一括して管理しています。
 
 
 ## はじめに
